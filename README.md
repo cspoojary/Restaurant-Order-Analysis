@@ -11,7 +11,7 @@ You've just been hired as a Data Analyst for the Taste of the World Cafe, a rest
 ## The Assignment
 The Taste of the World Cafe dubuted a new menu at the start of the year. You've been asked to dig into the customer data to see which menu items are doing well/not well and what the top customers seem to like best.
 
-##The Objectives
+## The Objectives
 1.Explore the menu_items table to get an idea of what's on the new menu.
   Your first objective is to better understand the items table by finding the number of rows in the table, the least and most expensive items, and the item prices within each category.
 ### Solution 1
