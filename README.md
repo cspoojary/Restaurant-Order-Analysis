@@ -1,5 +1,5 @@
 # Restaurant-Order-Analysis
-### MySQL ### Basic ### Business
+### >MySQL >Basic >Business
 ## Restaurant Order Sales Project using MySql
 
 ### The Dataset used
